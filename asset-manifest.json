@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/utsweb-16123/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/utsweb-16123/static/js/main.3667af6d.chunk.js",
+    "main.js.map": "/utsweb-16123/static/js/main.3667af6d.chunk.js.map",
+    "runtime-main.js": "/utsweb-16123/static/js/runtime-main.b3f299e6.js",
+    "runtime-main.js.map": "/utsweb-16123/static/js/runtime-main.b3f299e6.js.map",
+    "static/css/2.69121389.chunk.css": "/utsweb-16123/static/css/2.69121389.chunk.css",
+    "static/js/2.fe684f2f.chunk.js": "/utsweb-16123/static/js/2.fe684f2f.chunk.js",
+    "static/js/2.fe684f2f.chunk.js.map": "/utsweb-16123/static/js/2.fe684f2f.chunk.js.map",
+    "index.html": "/utsweb-16123/index.html",
+    "precache-manifest.76986628a6974fc91bbfb8e2c9862742.js": "/utsweb-16123/precache-manifest.76986628a6974fc91bbfb8e2c9862742.js",
+    "service-worker.js": "/utsweb-16123/service-worker.js",
+    "static/css/2.69121389.chunk.css.map": "/utsweb-16123/static/css/2.69121389.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/utsweb-16123/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.fe684f2f.chunk.js.LICENSE.txt": "/utsweb-16123/static/js/2.fe684f2f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3f299e6.js",
+    "static/css/2.69121389.chunk.css",
+    "static/js/2.fe684f2f.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.3667af6d.chunk.js"
+  ]
+}
